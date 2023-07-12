@@ -1,0 +1,16 @@
+[default]
+Domains = example1.com, example2.com
+
+Account_id = 2054
+Contact_id = 10160
+
+Auth_token = IQXcby7s07D6jeWJ31Wrjzlsajpukx9b
+
+Time_start = 00:00:00
+Time_end = 23:42:30
+
+Timer = 1
+
+Retry_rate = 0.5
+
+Test = True
